@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(167, 197, 177);
+
+}
+
+
+h1.flor{
+    color: blue;
+    font-weight: 900;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    font-size: 300%;
+}
+p.renacimiento{
+
+    font-size: 190%;
+}
+
+img.fiore{
+    float: left;
+
+}
+h2.encabezado_fiore{
+    color: white;
+    background-color: rgb(5, 66, 5);
+    font-weight: bold;
+    font-size: 250%;
+}
+
+span.iglesia1{
+    font-weight: bold;
+}
+
+p.uno{
+    font-size: 190%;
+}
+
+p.dos{
+    font-size: 190%;
+}
+
+h2.encabezado_croce{
+    color: white;
+    background-color: rgb(5, 66, 5);
+    font-weight: bold;
+    font-size: 250%;
+
+}
+
+p.croce{
+    text-align: center;
+    
+}
+
+p.tres{
+    font-size: 190%;
+}
+
+p.cuatro{
+    font-size: 190%;
+}
+
+h2.encabezado_novella{
+    color: white;
+    background-color: rgb(5, 66, 5);
+    font-weight: bold;
+    font-size: 250%;
+
+}
+
+p.imagen_tres{
+    float: right;
+}
+
+p.cinco{
+    font-size: 190%;
+}
+
+p.seis{
+    font-size: 190%;
+}
+
+p.ultimo{
+    font-weight: 300;
+}
