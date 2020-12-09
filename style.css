@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(167, 197, 177);
+    background-color: rgb(210, 214, 211);
 
 }
 
@@ -23,7 +23,7 @@ img.fiore{
 }
 h2.encabezado_fiore{
     color: white;
-    background-color: rgb(5, 66, 5);
+    background-color: rgba(49, 80, 20, 0.733);
     font-weight: bold;
     font-size: 250%;
 }
@@ -42,7 +42,7 @@ p.dos{
 
 h2.encabezado_croce{
     color: white;
-    background-color: rgb(5, 66, 5);
+    background-color: rgba(49, 80, 20, 0.733);
     font-weight: bold;
     font-size: 250%;
 
@@ -63,7 +63,7 @@ p.cuatro{
 
 h2.encabezado_novella{
     color: white;
-    background-color: rgb(5, 66, 5);
+    background-color: rgba(49, 80, 20, 0.733);
     font-weight: bold;
     font-size: 250%;
 
